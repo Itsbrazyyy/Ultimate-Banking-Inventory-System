@@ -8,8 +8,7 @@ It handles currency, inventory, bills, income, time progression, price reference
  Designed for players who want deeper worlds, consistent rules, and a smooth, game‑like experience.
 | Feature | Description |
 | --- | --- |
-| **Automated Currency System** |
-💵Wallet (Within the Inventory SC) that separately tracks, adds and deducts currency. It will also decline purchases if you lack the income😹|
+| **Automated Currency System** |💵Wallet (Within the Inventory SC) that separately tracks, adds and deducts currency. It will also decline purchases if you lack the income😹|
 | **Smart Inventory Tracking** |👜Inventory system that automatically adds and removes and updates items via keyword trigger. |
 | **Time Progression Engine** |🕰️Time Tracking with triggerable skip features. Configurable advancing hours, days, weeks, or months based on narration or player commands. |
 | **Bills & Income Automation** | 💳Bill tracking with automatic expense deduction and income addition to wallet. You can add or remove bills and income here and toggle them on and off.|
