@@ -1,0 +1,9 @@
+// ============================================================
+//  UBIS CONTEXT MODIFIER
+// ============================================================
+const modifier = (text) => {
+  text = onContext_UBIS(text);
+  return { text };
+};
+
+modifier(text);

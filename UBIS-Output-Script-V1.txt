@@ -1,0 +1,9 @@
+// ============================================================
+//  UBIS OUTPUT MODIFIER
+// ============================================================
+const modifier = (text) => {
+  text = onOutput_UBIS(text);
+  return { text };
+};
+
+modifier(text);
