@@ -1,9 +1,0 @@
-// ============================================================
-//  UBIS INPUT MODIFIER
-// ============================================================
-const modifier = (text) => {
-  text = onInput_UBIS(text);
-  return { text };
-};
-
-modifier(text);
