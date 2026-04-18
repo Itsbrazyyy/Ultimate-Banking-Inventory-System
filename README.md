@@ -15,8 +15,7 @@ It handles currency, inventory, bills, income, time progression, price reference
 | **Bills & Income Automation** | 💳Bill tracking with automatic expense deduction and income addition to wallet. You can add or remove bills and income here and toggle them on and off.|
 | **Price Reference System** |🏘️A Price List story card for AI‑readable cost of living ranges for realistic world pricing. |
 | **Story Card Syncing** | Inventory, wallet, bills, time, and config cards stay perfectly updated. |
-| **Slash Commands** | Power‑user controls for configuration, debugging, and customization. |
-| **Immersion‑Friendly** | No intrusive UI — everything happens behind the scenes unless relevant. |
+| **Slash Commands** | Power‑user controls for configuration, debugging, and customization. (Currently available: /ubis disable, /keywords, /help)|
 
 # 📦 Installation Guide
 #### 1. Open AI Dungeon on your computer (or switch your mobile browser to Desktop Mode).
@@ -84,6 +83,7 @@ https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/c0cbf9756b8
 3. use /keywords to see a list of useable phrases for your adventure. When you want currency to be tracked, try not to add words between the count and currency. For Example: "I received a single gold coin."🚫 "I recieved a gold coin."✅
 4. Different models may react differently
 5. Add additional triggers to the SC based on your needs. For example, if you want the AI to memorize your inventory if you bring it up later in the scenario just add "Inventory" or something else to the triggers. (Or simply put it in your Plot essentials or Ai instructions💗)
+6. if you use /ubis disable to disable the script but want to enable it again later, enable it from the "Configure UBIS" SC. Switch the script from "OFF" to "ON"
 
 # Creator Information
 - In the "Library" Script at the top you will find a Boilerplate with full customization settings for your scenario. Adjust these to match your world settings💗
