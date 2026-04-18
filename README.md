@@ -87,7 +87,7 @@ https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/c0cbf9756b8
 
 # Creator Information
 - In the "Library" Script at the top you will find a Boilerplate with full customization settings for your scenario. Adjust these to match your world settings💗
-
+- I would appreciate the reference when using this script 💗 (Example: Made by "ItsBrazyyy")
 # Useful Information 
 - Ai Dungeon Link: https://play.aidungeon.com/
 - Script link on Ai Dungeon: https://play.aidungeon.com/scenario/4MSdmu6UWa_-/ultimate-banking-inventory-system-v11?share=true&published=true
