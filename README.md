@@ -72,7 +72,7 @@ modifier(text);
 ```
 #### 13. Go to your Library now, delete all within 
 #### 14. Open the link below. Copy the entire Library code and and paste this into your Library: 
-https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/c0cbf9756b85f917c07449c162363c648def2667/UBIS-Library-Script-V1.1.txt
+https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/a4ee99aca79852b143e478a94b2c039d5d3afbb7/UBIS-Library-Script-V1.1.txt
 
 #### 15. Now Click SAVE in the top Right Corner
 ### And now you've successfully installed UBIS! 🥳 All adventures from this scenario, including existing ones will now have this script installed. 
