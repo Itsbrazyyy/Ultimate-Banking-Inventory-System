@@ -6,16 +6,21 @@
 ### UBIS brings structure, immersion, and world‑simulation to your AI Dungeon adventures.
 It handles currency, inventory, bills, income, time progression, price references, quests and story card syncing — all automatically.
  Designed for players who want deeper worlds, consistent rules, and a smooth, Quality of life experience.
- # Features
+ # Features (New!)
 | Feature | Description |
 | --- | --- |
-| **Automated Currency System** |💵Wallet (Within the Inventory SC) that separately tracks, adds and deducts currency. It will also decline purchases if you lack the income😹|
-| **Smart Inventory Tracking** |👜Inventory system that automatically adds and removes and updates items via keyword trigger. |
-| **Time Progression Engine** |🕰️Time Tracking with triggerable skip features. Configurable advancing hours, days, weeks, or months based on narration or player commands. |
-| **Bills & Income Automation** | 💳Bill tracking with automatic expense deduction and income addition to wallet. You can add or remove bills and income here and toggle them on and off.|
-| **Price Reference System** |🏘️A Price List story card for AI‑readable cost of living ranges for realistic world pricing. |
-| **Story Card Syncing** | Inventory, wallet, bills, time, and config cards stay perfectly updated. |
-| **Slash Commands** | Power‑user controls for configuration, debugging, and customization. (Currently available: /ubis disable, /keywords, /help)|
+| **Automated Currency System** | 💵 Wallet tracking that automatically adds, deducts, converts, and declines purchases when funds are insufficient. |
+| **Smart Inventory Tracking** | 👜 Auto‑detects item gains and losses using expanded keyword triggers for seamless inventory updates. |
+| **Time Progression Engine** | 🕰️ Automatically advances time based on narration cues or player commands, including hours, days, weeks, and months. |
+| **Bills & Income Automation** | 💳 Recurring expenses and income with improved interval parsing and automatic ledger logging. |
+| **Holidays Story Card** | 🎊 Built‑in festivals, solstices, birthdays, and religious days synced to UBIS time. |
+| **Events Story Card** | 📆 Create one‑time or repeating events with optional lead‑time reminders and automatic clearing. |
+| **Seasonal Weather System** | 🌦️ Configurable weather tables for fantasy, modern, and sci‑fi settings. |
+| **Bounty Board** | 🎯 Story card for defining minimum and maximum payouts for quests, jobs, and contracts. |
+| **Narration Switch** | 🧭 Toggle to prevent the AI from narrating or deciding actions for your character. |
+| **Expanded Price List** | 📦 Cost‑of‑living reference for realistic NPC pricing across multiple categories. |
+| **Story Card Syncing** | 🔄 Inventory, wallet, bills, time, and config cards stay perfectly updated. |
+| **Slash Commands** | ⌨️ Power‑user controls for configuration and debugging, including `/help`, `/keywords`, and `/ubis disable` (Story Mode only). |
 
 # 📦 Installation Guide
 #### 1. Open AI Dungeon on your computer (or switch your mobile browser to Desktop Mode).
@@ -93,10 +98,23 @@ https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/c21dfc1a83d
 - Script link on Ai Dungeon: https://play.aidungeon.com/scenario/4MSdmu6UWa_-/ultimate-banking-inventory-system-v11?share=true&published=true
 - Ai Dungeon Official Discord Link: https://discord.gg/HpuNBKSb
  
-## 📜 Changelog
+##📜 Changelog
 
 <details>
 <summary><strong>Click to expand</strong></summary>
+
+ 
+📝Changelog — UBIS V.2
+- Added Holidays Story Card (festivals, solstices, birthdays, religious days)
+- Added Events Story Card with lead‑time reminders and auto‑clearing
+- Added Seasonal Weather System with configurable tables
+- Added Bounty Board for quest/job payout ranges
+- Added Narration Switch to stop AI auto‑decision making
+- Expanded currency and inventory keyword detection
+- Improved bills & income interval parsing and automation
+- Expanded Price List categories for consistent world pricing
+- Enhanced Story Card syncing and slash command reliability
+- General code cleanup, optimization, and stability improvements
 
 ### v1.1
 #### Fixes: 
