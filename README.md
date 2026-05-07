@@ -89,6 +89,8 @@ https://github.com/Itsbrazyyy/Ultimate-Banking-Inventory-System/blob/c21dfc1a83d
 4. Different models may react differently
 5. Add additional triggers to the SC based on your needs. For example, if you want the AI to memorize your inventory if you bring it up later in the scenario just add "Inventory" or something else to the triggers. (Or simply put it in your Plot essentials or Ai instructions💗)
 6. if you use /ubis disable to disable the script but want to enable it again later, enable it from the "Configure UBIS" SC. Switch the script from "OFF" to "ON"
+7. If your slash commands arent working, make sure you are using slash commands in "Story" mode. Not Do, say or see.
+8. If youre using events and your time progression is slow, I recommend manually toggling or deleting the event once its over. (Example: You have a surprise birthday party event and after the party you continue the scenario regularly. the ai will try to start the event again until the day ends. the event automatically deletes on its own the next day.)
 
 # Creator Information
 - In the "Library" Script at the top you will find a Boilerplate with full customization settings for your scenario. Adjust these to match your world settings💗
